@@ -1,0 +1,7 @@
+email.username=YOUR_EMAIL_HERE@example.com
+email.password=YOUR_EMAIL_PASSWORD_HERE
+email.from=YOUR_EMAIL_HERE@example.com
+mail.smtp.host=YOUR_SMTP_HOST_HERE
+mail.smtp.port=587
+mail.smtp.auth=true
+mail.smtp.starttls.enable=true
